@@ -1,0 +1,11 @@
+{
+  "name": "@op-lib/validator",
+  "version": "0.0.0",
+  "description": "Validator class for inputs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
