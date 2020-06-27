@@ -24,5 +24,8 @@
   },
   "bugs": {
     "url": "https://github.com/opllama2/op-lib/issues"
+  },
+  "devDependencies": {
+    "lerna": "2.0.0"
   }
 }
