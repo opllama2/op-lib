@@ -5,17 +5,16 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "lerna exec --parallel -- babel --root-mode upward src -d lib --delete-dir-on-start --ignore **/*.spec.js",
+    "build": "lerna run compile",
     "commit": "git-cz",
     "commitmsg": "validate-commit-msg"
   },
   "devDependencies": {
-    "@babel/cli": "^7.10.3",
-    "@babel/core": "^7.10.3",
-    "@babel/preset-env": "^7.10.3",
+    "@types/node": "^14.0.14",
     "cz-lerna-changelog": "^2.0.3",
     "lerna": "^3.22.1",
-    "semantic-release": "^17.1.0"
+    "semantic-release": "^17.1.0",
+    "typescript": "^3.9.5"
   },
   "config": {
     "commitizen": {
