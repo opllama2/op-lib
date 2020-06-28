@@ -6,6 +6,7 @@ before_install:
   - npm install -g lerna@2.0.0 lerna-semantic-release
 
 build:
+  - git checkout master
   - npm run build
 
 deploy:
