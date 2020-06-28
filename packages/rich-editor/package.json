@@ -1,7 +1,7 @@
 {
-  "name": "@opllama.js/rich-editor",
+  "name": "rich-editor",
   "version": "0.0.0",
-  "description": "a rich editor using the Selection API",
+  "description": "> TODO: description",
   "author": "Ali Hassan <opllama2@gmail.com>",
   "homepage": "https://github.com/opllama2/op-lib#readme",
   "license": "ISC",
@@ -19,13 +19,10 @@
     "url": "git+https://github.com/opllama2/op-lib.git"
   },
   "scripts": {
-    "test": "echo \"Testing DONE!\"",
+    "test": "echo \"Testing\"",
     "compile": "tsc"
   },
   "bugs": {
     "url": "https://github.com/opllama2/op-lib/issues"
-  },
-  "devDependencies": {
-    "lerna": "2.0.0"
   }
 }
