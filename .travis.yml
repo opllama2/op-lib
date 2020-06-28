@@ -8,12 +8,14 @@ before_install:
 build:
   - npm run build
 
+before_deploy:
+  - git checkout master
+  
 deploy:
   provider: script
   skip_cleanup: true
   script:
-    -"git checkout master"
-    -"lerna publish --repo-version=1.0.0 --yes"
+    lerna publish --repo-version=1.0.0 --yes
     # lerna-semantic-release pre
     # lerna-semantic-release perform
     # lerna-semantic-release post
