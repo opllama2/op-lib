@@ -11,7 +11,7 @@ build:
 deploy:
   provider: script
   script:
-    lerna publish --repo-version=1.0.0
+    lerna publish --repo-version=1.0.0 --yes
     # lerna-semantic-release pre
     # lerna-semantic-release perform
     # lerna-semantic-release post
