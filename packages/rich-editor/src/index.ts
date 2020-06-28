@@ -1,1 +1,5 @@
-export const PACKAGE_NAME = "RichEditor"
+export class RichEditor {
+    constructor (el: HTMLElement) {
+        console.log(`Initializing for: ${el}`)
+    }
+}
