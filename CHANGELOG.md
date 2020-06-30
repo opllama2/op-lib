@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.2](https://github.com/opllama2/op-lib/compare/v1.0.1...v1.0.2) (2020-06-30)
+
+
+### Bug Fixes
+
+* remove npm debug ([9e85083](https://github.com/opllama2/op-lib/commit/9e850838a7ba4adb264375be434cb650f111c852))
+* updaing npm registry ([994bb26](https://github.com/opllama2/op-lib/commit/994bb26f83ebca47a236db8180074ac19047d9f9))
+
+
+
+
+
 ## [1.0.1](https://github.com/opllama2/op-lib/compare/v1.0.0...v1.0.1) (2020-06-30)
 
 
