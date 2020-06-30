@@ -10,12 +10,10 @@ build:
 
 before_deploy:
   - git checkout master
+  - git remote set-url origin "https://$GITHUB_ACTOR:$GH_TOKEN@github.com/$GITHUB_REPOSITORY.git"
   
 deploy:
   provider: script
   skip_cleanup: true
   script:
     lerna publish --repo-version=1.0.0 --yes
-    # lerna-semantic-release pre
-    # lerna-semantic-release perform
-    # lerna-semantic-release post
