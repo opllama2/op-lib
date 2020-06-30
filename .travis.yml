@@ -18,4 +18,4 @@ deploy:
   provider: script
   skip_cleanup: true
   script:
-    lerna publish --yes
+    lerna publish --yes --registry https://registry.npmjs.com/:_authToken=${NPM_TOKEN}
