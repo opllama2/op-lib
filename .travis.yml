@@ -16,4 +16,4 @@ deploy:
   provider: script
   skip_cleanup: true
   script:
-    lerna publish --repo-version=1.0.0 --yes
+    lerna publish --yes
