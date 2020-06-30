@@ -10,7 +10,7 @@ build:
 
 before_deploy:
   - git checkout master
-  - git remote set-url origin "https://$GITHUB_ACTOR:$GH_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+  - git remote set-url origin "https://opllama2:$GH_TOKEN@github.com/op-lib.git"
   
 deploy:
   provider: script
