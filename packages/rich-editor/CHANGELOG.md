@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.0.0 (2020-06-30)
+
+
+### Bug Fixes
+
+* fixing interactive shell with lerna ([6a722b3](https://github.com/opllama2/op-lib/commit/6a722b356a0af7919c2c1b46d6666091df7448f2))
+* fixing package name ([d014698](https://github.com/opllama2/op-lib/commit/d0146987c517983d7a564ccc9f0577b6da6cc6ae))
+* issues in lerna publish ([81510b7](https://github.com/opllama2/op-lib/commit/81510b7fed6a8195850f266cfd3d01b6009285e9))
+
+
+### Features
+
+* added rich-editor package ([ce19682](https://github.com/opllama2/op-lib/commit/ce196822622cd78fb05faa06ce4d79c83a66a14f))
+* added RichEditor class ([3cb683b](https://github.com/opllama2/op-lib/commit/3cb683b856b59cf2ad557055390912aa1629efc4))
+
+
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2020-06-28)
 
