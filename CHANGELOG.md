@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/opllama2/op-lib/compare/v1.0.0...v1.0.1) (2020-06-30)
+
+
+### Bug Fixes
+
+* fixing issue in rich editor ([18f63b9](https://github.com/opllama2/op-lib/commit/18f63b9e67c8253f38dfecd80420a7b8515135e4))
+
+
+
+
+
 # 1.0.0 (2020-06-30)
 
 
