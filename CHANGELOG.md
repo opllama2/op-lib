@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.3](https://github.com/opllama2/op-lib/compare/v1.0.2...v1.0.3) (2020-06-30)
+
+
+### Bug Fixes
+
+* adding license file ([cb3af88](https://github.com/opllama2/op-lib/commit/cb3af88689722b9010b979d7f6c9de75eb17c5e3))
+
+
+
+
+
 ## [1.0.2](https://github.com/opllama2/op-lib/compare/v1.0.1...v1.0.2) (2020-06-30)
 
 
