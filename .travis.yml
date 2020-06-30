@@ -11,8 +11,6 @@ build:
 before_deploy:
   - git checkout master
   - git remote set-url origin "https://$GH_TOKEN@github.com/opllama2/op-lib.git"
-  - echo "IAM:"
-  - npm whoami
   
 deploy:
   provider: script
