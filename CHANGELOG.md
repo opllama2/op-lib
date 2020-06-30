@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/opllama2/op-lib/compare/v1.0.3...v1.0.4) (2020-06-30)
+
+
+### Bug Fixes
+
+* fixinf console issue ([03c75ab](https://github.com/opllama2/op-lib/commit/03c75ab8838a47c1ce8559a3f870cbc75b2d417e))
+
+
+
+
+
+
 ## [1.0.3](https://github.com/opllama2/op-lib/compare/v1.0.2...v1.0.3) (2020-06-30)
 
 
